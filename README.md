@@ -15,3 +15,7 @@ How to design for All Clients at Once? Links to read:
 - https://www.emailonacid.com/blog/article/email-development/why-should-i-set-my-table-role-as-presentation/
 
 --------------------------------------------------------
+
+- Store Photos here: https://imgbb.com/
+
+- Download free images from here: https://www.pexels.com/
